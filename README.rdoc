@@ -1,3 +1,4 @@
+by @Mourinto
 This is a replica of the Instagram Web App built in Ruby on Rails.
 Main Features:
 * Liking Pictures
@@ -5,4 +6,3 @@ Main Features:
 * Image Uploading
 * CRUD functionality for pictures
 
-by @Mourinto
